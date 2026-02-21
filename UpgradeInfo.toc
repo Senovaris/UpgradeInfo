@@ -1,0 +1,11 @@
+## Interface: 120001, 120000
+## Title: Upgrade Info
+## Notes: Shows upgrade info in the tooltip.
+## Author: Aurs
+## Category: Aurs UI [DEV]
+## Version: @project-version@
+## IconTexture: Interface\AddOns\Aurs_UpgradeInfo\Media\icon.png
+
+Core.lua
+UpgradeData.lua
+TooltipHandler.lua
