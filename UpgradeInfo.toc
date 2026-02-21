@@ -6,6 +6,9 @@
 ## Version: @project-version@
 ## IconTexture: Interface\AddOns\Aurs_UpgradeInfo\Media\icon.png
 
+## X-Wago-ID: 96d2b5GO
+## X-Curse-Project-ID: 1468002
+
 Core.lua
 UpgradeData.lua
 TooltipHandler.lua
